@@ -1,2 +1,1 @@
-#!/bin/bash
-abs=$(realpath "${BASH_SOURCE:-$0}")
+Move the file betty from /tmp/ to /tmp/my_first_directory.
